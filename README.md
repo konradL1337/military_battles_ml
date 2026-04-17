@@ -11,7 +11,7 @@ Celem projektu było przewidzenie wyniku bitew historycznych (1600-1973) przy u�
 ## Jak uruchomić?
 Projekt został przygotowany w środowisku **Google Colab**. 
 Możesz uruchomić notatnik klikając poniżej:
-[Kliknij tutaj, aby otworzyć w Colab]([[LINK_DO_TWOJEGO_COLABA_TUTAJ](https://colab.research.google.com/drive/1M-VO5SIDkpyTqEW-AlPvr_4DGe2Twkut#scrollTo=o1FGTvVd8x-x)])
+[Kliknij tutaj, aby otworzyć w Colab]([[[LINK_DO_TWOJEGO_COLABA_TUTAJ](https://colab.research.google.com/drive/1M-VO5SIDkpyTqEW-AlPvr_4DGe2Twkut#scrollTo=o1FGTvVd8x-x)]])
 
 ---
 *Projekt zrealizowany przy użyciu: Python, Pandas, Scikit-learn, Seaborn.*
